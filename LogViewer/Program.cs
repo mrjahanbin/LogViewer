@@ -7,9 +7,9 @@ using System.Reflection;
 
 Console.WriteLine("Hi! Wlcome to LogViewer");
 Console.WriteLine("-------------------");
-Console.WriteLine("|       L         |");
-Console.WriteLine("|       O         |");
-Console.WriteLine("|       G         |");
+Console.WriteLine("|       L     ل    |");
+Console.WriteLine("|       O     ا    |");
+Console.WriteLine("|       G     گ    |");
 Console.WriteLine("-------------------");
 Console.WriteLine("");
 Console.WriteLine("");
