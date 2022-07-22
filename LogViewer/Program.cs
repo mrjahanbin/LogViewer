@@ -10,7 +10,6 @@ Console.WriteLine("-------------------");
 Console.WriteLine("|       L         |");
 Console.WriteLine("|       O         |");
 Console.WriteLine("|       G         |");
-Console.WriteLine("|                 |");
 Console.WriteLine("-------------------");
 Console.WriteLine("");
 Console.WriteLine("");
